@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24430" started-at="2019-05-02T12:48:09Z" finished-at="2019-05-02T12:48:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24430" started-at="2019-05-02T12:48:09Z" finished-at="2019-05-02T12:48:34Z">
+      <class name="Habitos_QA_ERP.HBERP.Login">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Habitos_QA_ERP.HBERP.Login@29ee9faa]" name="beforeTest" is-config="true" duration-ms="12412" started-at="2019-05-02T18:18:09Z" finished-at="2019-05-02T18:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Invalid_Login()[pri:1, instance:Habitos_QA_ERP.HBERP.Login@29ee9faa]" name="Invalid_Login" duration-ms="1422" started-at="2019-05-02T18:18:22Z" finished-at="2019-05-02T18:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_Login -->
+        <test-method status="PASS" signature="Invalid_Login1()[pri:2, instance:Habitos_QA_ERP.HBERP.Login@29ee9faa]" name="Invalid_Login1" duration-ms="899" started-at="2019-05-02T18:18:23Z" finished-at="2019-05-02T18:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid_Login1 -->
+        <test-method status="PASS" signature="Valid_Login()[pri:3, instance:Habitos_QA_ERP.HBERP.Login@29ee9faa]" name="Valid_Login" duration-ms="9581" started-at="2019-05-02T18:18:24Z" finished-at="2019-05-02T18:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid_Login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Habitos_QA_ERP.HBERP.Login@29ee9faa]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-05-02T18:18:34Z" finished-at="2019-05-02T18:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Habitos_QA_ERP.HBERP.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
