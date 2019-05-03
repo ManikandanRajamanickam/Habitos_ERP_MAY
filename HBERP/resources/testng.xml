@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="Idlidabba.ERP.Crm"/>
+      <class name="Habitos_QA_ERP.HBERP.Login"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
