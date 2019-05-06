@@ -303,6 +303,8 @@ public class Login {
 
 		catch (Exception e) {
 
+			System.out.println(e);
+			
 		System.out.println("Login is not working");
 
 		}
