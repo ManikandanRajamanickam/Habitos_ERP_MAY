@@ -100,3 +100,21 @@
 2019-05-03 17:41:30,768 [main] INFO Habitos - LOGIN - Verify that user can login with valid credentials
 2019-05-06 10:50:04,453 [main] INFO Habitos - LOGIN - browser gets open
 2019-05-06 10:50:10,794 [main] INFO Habitos - LOGIN - browser gets valid ip address
+2019-05-06 15:21:38,684 [main] INFO Habitos - LOGIN - browser gets open
+2019-05-06 15:21:46,262 [main] INFO Habitos - LOGIN - browser gets valid ip address
+2019-05-06 16:59:56,149 [main] INFO Habitos - LOGIN - browser gets open
+2019-05-06 17:00:02,339 [main] INFO Habitos - LOGIN - browser gets valid ip address
+2019-05-06 17:00:02,668 [main] INFO Habitos - LOGIN - Verify that if the User Name field is present 
+2019-05-06 17:00:02,701 [main] INFO Habitos - LOGIN - Verify that if the username fields get autofocus
+2019-05-06 17:00:03,229 [main] INFO Habitos - LOGIN - Verify that if the Password  field is present 
+2019-05-06 17:00:03,302 [main] INFO Habitos - LOGIN - Verify that if the password fields get focused
+2019-05-06 17:00:05,119 [main] INFO Habitos - LOGIN - Verify that if the user can't able to login with Invalid credentials
+2019-05-06 17:00:05,358 [main] INFO Habitos - LOGIN - Verify that if the User Name field is present 
+2019-05-06 17:00:05,383 [main] INFO Habitos - LOGIN - Verify that if the username fields get autofocus
+2019-05-06 17:00:05,794 [main] INFO Habitos - LOGIN - Verify that if the Password  field is present 
+2019-05-06 17:00:05,893 [main] INFO Habitos - LOGIN - Verify that if the password fields get focused
+2019-05-06 17:00:07,082 [main] INFO Habitos - LOGIN - Verify that if the user can't able to login with Invalid credentials
+2019-05-06 17:00:07,533 [main] INFO Habitos - LOGIN - Verify that if the username fields get autofocus
+2019-05-06 17:00:08,029 [main] INFO Habitos - LOGIN - Verify that if the user can enter the user name
+2019-05-06 17:00:08,226 [main] INFO Habitos - LOGIN - Verify that if the password fields get focused
+2019-05-06 17:00:08,487 [main] INFO Habitos - LOGIN - Verify that user can login with valid credentials
