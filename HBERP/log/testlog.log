@@ -66,3 +66,37 @@
 2019-05-03 17:34:57,369 | Habitos - LOGIN |INFO | Verify that if the user can enter the user name
 2019-05-03 17:34:57,599 | Habitos - LOGIN |INFO | Verify that if the password fields get focused
 2019-05-03 17:34:57,947 | Habitos - LOGIN |INFO | Verify that user can login with valid credentials
+2019-05-03 17:40:26,235 | Habitos - LOGIN |INFO | browser gets open
+2019-05-03 17:40:32,318 | Habitos - LOGIN |INFO | browser gets valid ip address
+2019-05-03 17:40:32,727 | Habitos - LOGIN |INFO | Verify that if the User Name field is present 
+2019-05-03 17:40:32,758 | Habitos - LOGIN |INFO | Verify that if the username fields get autofocus
+2019-05-03 17:40:33,325 | Habitos - LOGIN |INFO | Verify that if the Password  field is present 
+2019-05-03 17:40:33,359 | Habitos - LOGIN |INFO | Verify that if the password fields get focused
+2019-05-03 17:40:34,452 | Habitos - LOGIN |INFO | Verify that if the user can't able to login with Invalid credentials
+2019-05-03 17:40:34,666 | Habitos - LOGIN |INFO | Verify that if the User Name field is present 
+2019-05-03 17:40:34,693 | Habitos - LOGIN |INFO | Verify that if the username fields get autofocus
+2019-05-03 17:40:35,235 | Habitos - LOGIN |INFO | Verify that if the Password  field is present 
+2019-05-03 17:40:35,318 | Habitos - LOGIN |INFO | Verify that if the password fields get focused
+2019-05-03 17:40:36,168 | Habitos - LOGIN |INFO | Verify that if the user can't able to login with Invalid credentials
+2019-05-03 17:40:36,532 | Habitos - LOGIN |INFO | Verify that if the username fields get autofocus
+2019-05-03 17:40:37,011 | Habitos - LOGIN |INFO | Verify that if the user can enter the user name
+2019-05-03 17:40:37,215 | Habitos - LOGIN |INFO | Verify that if the password fields get focused
+2019-05-03 17:40:37,563 | Habitos - LOGIN |INFO | Verify that user can login with valid credentials
+2019-05-03 17:41:17,260 | Habitos - LOGIN |INFO | browser gets open
+2019-05-03 17:41:24,670 | Habitos - LOGIN |INFO | browser gets valid ip address
+2019-05-03 17:41:25,215 | Habitos - LOGIN |INFO | Verify that if the User Name field is present 
+2019-05-03 17:41:25,277 | Habitos - LOGIN |INFO | Verify that if the username fields get autofocus
+2019-05-03 17:41:25,916 | Habitos - LOGIN |INFO | Verify that if the Password  field is present 
+2019-05-03 17:41:25,962 | Habitos - LOGIN |INFO | Verify that if the password fields get focused
+2019-05-03 17:41:28,078 | Habitos - LOGIN |INFO | Verify that if the user can't able to login with Invalid credentials
+2019-05-03 17:41:28,564 | Habitos - LOGIN |INFO | Verify that if the User Name field is present 
+2019-05-03 17:41:28,590 | Habitos - LOGIN |INFO | Verify that if the username fields get autofocus
+2019-05-03 17:41:29,106 | Habitos - LOGIN |INFO | Verify that if the Password  field is present 
+2019-05-03 17:41:29,207 | Habitos - LOGIN |INFO | Verify that if the password fields get focused
+2019-05-03 17:41:29,811 | Habitos - LOGIN |INFO | Verify that if the user can't able to login with Invalid credentials
+2019-05-03 17:41:30,014 | Habitos - LOGIN |INFO | Verify that if the username fields get autofocus
+2019-05-03 17:41:30,236 | Habitos - LOGIN |INFO | Verify that if the user can enter the user name
+2019-05-03 17:41:30,401 | Habitos - LOGIN |INFO | Verify that if the password fields get focused
+2019-05-03 17:41:30,768 | Habitos - LOGIN |INFO | Verify that user can login with valid credentials
+2019-05-06 10:50:04,453 | Habitos - LOGIN |INFO | browser gets open
+2019-05-06 10:50:10,794 | Habitos - LOGIN |INFO | browser gets valid ip address

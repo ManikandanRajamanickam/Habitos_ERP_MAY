@@ -47,6 +47,7 @@ import org.testng.annotations.AfterTest;
 public class Crm {
 	
 WebDriver driver;	
+
 static org.apache.log4j.Logger logger;
 
 @BeforeTest
